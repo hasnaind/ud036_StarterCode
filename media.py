@@ -1,6 +1,6 @@
 import webbrowser
 
-class Movie():
+class Movie(object):
     '''This class provides a way to store information about movies'''
     def __init__(self,movie_title,movie_storyline,poster_image,imbd_ratings,trailer_url):
         self.title=movie_title
