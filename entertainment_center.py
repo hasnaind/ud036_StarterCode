@@ -1,5 +1,6 @@
 import media
 import fresh_tomatoes
+
 def main():
     '''Creates six Movie objects, initialising these objects with title, storyline,
     poster image link, video trailer link and IMBD rating.'''
